@@ -1,0 +1,7 @@
+# فایل‌های موقت و حساس
+.env
+*.db
+*.sqlite
+__pycache__/
+node_modules/
+.vscode/
